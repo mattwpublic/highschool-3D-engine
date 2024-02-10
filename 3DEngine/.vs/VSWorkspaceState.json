@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.settings",
+    "\\bin\\pkg",
+    "\\res",
+    "\\src",
+    "\\src\\pkg",
+    "\\src\\pkg\\input"
+  ],
+  "SelectedNode": "\\src\\pkg\\Display.java",
+  "PreviewInSolutionExplorer": false
+}
