@@ -1,5 +1,5 @@
-# highschool-3D-engine
-a basic 3d "engine" I made in highschool. most of the code was copied from a tutorial series on how to make a 3d engine in java.
+# highschool-3D-visualizer
+a basic 3d visualizer I made in highschool. most of the code was copied from a tutorial series on how to make a 3d engine in java. All it does is show some planes to give the illusion of walking in a 3d space.
 
 # Installation/Running:
 
